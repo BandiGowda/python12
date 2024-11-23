@@ -1,0 +1,2 @@
+Print("yashuuuu"]
+print("yasuuuu")
